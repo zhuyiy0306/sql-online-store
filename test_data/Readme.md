@@ -270,18 +270,28 @@ received yet.
 REMAINING ACTIONS BEFORE SUBMISSION
 -----------------------------------
 [ ] Share payment-total discrepancies and confirm whether intentional.
+
 [ ] Agree whether cancelled orders should count in bestselling totals.
+
 [ ] Run and verify YEARLY gross profit query, not only October monthly.
+
 [ ] Verify actual order-placement workflow for Use Case 5; get approval
     before INSERT/COMMIT and avoid duplicate records.
+    
 [x] Professor removed view/procedure/function requirement: no action needed.
+
 [ ] Confirm Amy's monthly revenue query is present and uses the intended
     order-date window and cancellation policy; avoid duplicate work.
+    
 [ ] Run Test 05 and finish exact FK/PK-column-vs-ERD comparison.
+
 [ ] Complete report sections: use cases, access patterns, indexes,
     field definitions, normalization/design rationale, final ER diagram.
+    
 [ ] Prepare presentation: topic, two entities and business rule, tricky
     data types, one stakeholder query per student, lessons/challenges.
+    
 [ ] Individually: exchange five questions and submit SQL answers to the
     questions received, with the question-giver's name.
+    
 [ ] Have teammates verify any newly added database objects/updated data.
