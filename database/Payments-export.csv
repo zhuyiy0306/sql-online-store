@@ -1,0 +1,21 @@
+[object DocumentFragment],"<span class=""column-name"">PaymentID</span><span class=""column-data-type"">int</span>","<span class=""column-name"">OrderID</span><span class=""column-data-type"">bigint</span>","<span class=""column-name"">PaymentDate</span><span class=""column-data-type"">datetime</span>","<span class=""column-name"">PaymentMethod</span><span class=""column-data-type"">varchar</span>","<span class=""column-name"">PaymentAmount</span><span class=""column-data-type"">decimal</span>","<span class=""column-name"">PaymentStatus</span><span class=""column-data-type"">varchar</span>"
+,206001,20261001001,2026-10-01 11:25:00.000,Credit Card,49.99,Paid
+,206002,20261002001,2026-10-02 12:25:00.000,Debit Card,89.00,Paid
+,206003,20261003001,2026-10-03 13:25:00.000,PayPal,129.50,Paid
+,206004,20261004001,2026-10-04 14:25:00.000,Apple Pay,35.00,Paid
+,206005,20261005001,2026-10-05 15:25:00.000,Credit Card,78.90,Paid
+,206006,20261006001,2026-10-06 16:25:00.000,Debit Card,159.00,Paid
+,206007,20261007001,2026-10-07 17:25:00.000,PayPal,62.50,Paid
+,206008,20261008001,2026-10-08 10:25:00.000,Apple Pay,99.90,Paid
+,206009,20261009001,2026-10-09 11:25:00.000,Credit Card,45.00,Paid
+,206010,20261010001,2026-10-10 12:25:00.000,Debit Card,118.00,Paid
+,206011,20261011001,2026-10-11 13:25:00.000,PayPal,69.99,Paid
+,206012,20261012001,2026-10-12 14:25:00.000,Apple Pay,199.00,Paid
+,206013,20261013001,2026-10-13 15:25:00.000,Credit Card,54.90,Paid
+,206014,20261014001,2026-10-14 16:25:00.000,Debit Card,139.00,Paid
+,206015,20261015001,2026-10-15 17:25:00.000,PayPal,85.50,Paid
+,206016,20261016001,2026-10-16 10:25:00.000,Apple Pay,109.90,Paid
+,206017,20261017001,2026-10-17 11:25:00.000,Credit Card,39.99,Paid
+,206018,20261018001,2026-10-18 12:25:00.000,Debit Card,149.50,Paid
+,206019,20261019001,2026-10-19 13:25:00.000,PayPal,59.00,Pending
+,206020,20261020001,2026-10-23 14:25:00.000,Apple Pay,79.90,Refunded
